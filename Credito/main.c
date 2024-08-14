@@ -6,6 +6,6 @@ int main(void)
 {
     //Armazenar número do cartão
     long card_number = get_long("Insira o número do cartão: ");
-    printf("Seu cartão inserido é: %ld\n", card_number);
+    printf("O cartão inserido é: %ld\n", card_number);
 
 }
