@@ -4,8 +4,17 @@
 
 int main(void)
 {
-    //Armazenar número do cartão
-    long card_number = get_long("Insira o número do cartão: ");
-    printf("O cartã inserido é: %ld\n", card_number);
+    // Definir digitos
+    int digitos[16];
 
+    // Armazenar número do cartão
+    long card_number = get_long("Insira o número do cartão: ");
+    long checksum = card_number;
+    if (card_number < 0 || card_number > 1000000000000000)
+    {
+        printf("Um número de cartão deve ser inserido!");
+        return 1;
+    }
+
+    //Contador e armazenamento dos digitos
 }
