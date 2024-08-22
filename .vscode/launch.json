@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/nicolaslobo/CC50/C/Population",
-      "program": "/Users/nicolaslobo/CC50/C/Population/build/Debug/outDebug"
+      "cwd": "/Users/nicolaslobo/CC50/C/teste",
+      "program": "/Users/nicolaslobo/CC50/C/teste/build/Debug/outDebug"
     }
   ]
 }
