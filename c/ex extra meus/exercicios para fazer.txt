@@ -1,0 +1,27 @@
+1. Manipulação de Strings e Arrays
+
+	•	Objetivo: Saber como acessar, modificar e navegar em arrays de caracteres (strings) e arrays em geral.
+	•	Exercício Inicial: Faça um programa simples que receba uma string e conte quantos caracteres tem, sem usar strlen().
+	•	Exercício Extra: Faça um programa que inverta uma string (ex.: “casa” vira “asac”).
+
+2. Uso de Funções e Parâmetros
+
+	•	Objetivo: Compreender como passar valores para funções e retornar resultados.
+	•	Exercício Inicial: Crie uma função que receba dois números inteiros como parâmetros e retorne a soma deles. Pratique passando parâmetros por valor e por referência (usando ponteiros).
+	•	Exercício Extra: Faça um programa com várias funções, por exemplo, uma para calcular o fatorial e outra para somar números em um array.
+
+3. Diretivas de Pré-processador (#define)
+
+	•	Objetivo: Aprender a usar o pré-processador para criar constantes e macros.
+	•	Exercício Inicial: Crie um programa que use #define para definir uma constante como o valor de Pi (3.14159) e calcule a área de um círculo com essa constante.
+	•	Exercício Extra: Crie uma macro para calcular o quadrado de um número usando #define.
+
+4. Bibliotecas (<ctype.h> e <string.h>)
+
+	•	Objetivo: Saber utilizar funções dessas bibliotecas para manipular strings e caracteres.
+	•	Exercício Inicial: Use funções de ctype.h, como toupper() ou tolower(), para transformar uma string em letras maiúsculas ou minúsculas.
+	•	Exercício Extra: Use funções de string.h como strcmp() para comparar duas strings e determinar se são iguais ou não.
+
+Dica Geral:
+
+Para cada novo conceito, faça pequenos projetos práticos que o ajudem a aplicar os conhecimentos recém-adquiridos. Além disso, sempre que não entender algo, pratique mais com exemplos simples. Eu estarei aqui para te guiar e resolver dúvidas conforme você progride!
