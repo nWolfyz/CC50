@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nicolaslobo/Repos/CC50/c/ex extra meus/Contador Caracteres/output/main'
+relocations:     []
+...

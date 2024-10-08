@@ -1,13 +1,15 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     char texto[100];
     int i = 0;
 
     printf("Digite um texto: ");
-    gets(texto);
+    fgets(texto, sizeof(texto), stdin);
 
-    while (texto[i] != '\0') {
+    while (texto[i] != '\0' && texto[i] != '\n')
+    {
         i++;
     }
 
