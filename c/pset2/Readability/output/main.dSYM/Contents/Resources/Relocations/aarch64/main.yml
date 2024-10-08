@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nicolaslobo/CC50/c/pset2/Readability/output/main'
+relocations:     []
+...
